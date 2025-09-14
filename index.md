@@ -4,9 +4,11 @@ Hello!  My name is V. Vinatzer, and I'm an aspiring embedded systems engineer an
 and I'm trying to build a series of Pokemon-themed projects.  See below to see my progress.
 
 ## Klink
-![Klink Demo](klink_repo/images/Klink_Demo.gif)  
-[View the Klink repo]((https://github.com/vvinatzer/pokemon-model-voltorb))
+<img src="https://raw.githubusercontent.com/vvinatzer/pokemon-model-klink/main/images/Klink_Demo.gif" width="360">
+
+[View the Klink repository →](https://github.com/vvinatzer/pokemon-model-klink)
 
 ## Voltorb
-![Voltorb Body](voltorb_repo/images/Voltorb_Body.jpeg)  
-[View the Voltorb repo]((https://github.com/vvinatzer/pokemon-model-voltorb))
+<img src="https://raw.githubusercontent.com/vvinatzer/pokemon-model-voltorb/main/images/Voltorb_Body.jpeg" width="360">
+
+[View the Voltorb repository →](https://github.com/vvinatzer/pokemon-model-voltorb)
