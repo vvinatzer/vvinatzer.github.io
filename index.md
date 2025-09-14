@@ -5,8 +5,8 @@ and I'm trying to build a series of Pokemon-themed projects.  See below to see m
 
 ## Klink
 ![Klink Demo](klink_repo/images/Klink_Demo.gif)  
-[View the Klink repo]([https://github.com/yourusername/klink](https://github.com/vvinatzer/pokemon-model-voltorb))
+[View the Klink repo]((https://github.com/vvinatzer/pokemon-model-voltorb))
 
 ## Voltorb
 ![Voltorb Body](voltorb_repo/images/Voltorb_Body.jpeg)  
-[View the Voltorb repo]([https://github.com/yourusername/voltorb](https://github.com/vvinatzer/pokemon-model-voltorb))
+[View the Voltorb repo]((https://github.com/vvinatzer/pokemon-model-voltorb))
