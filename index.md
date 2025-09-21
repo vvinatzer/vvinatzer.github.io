@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello!  My name is V. Vinatzer, and I'm an aspiring embedded systems engineer and an aspiring DIY hobbyist (Of many different areas).  I'm also a huge Pokemon fan, 
+Hello!  My name is V. Vinatzer, and I'm an aspiring engineer and an aspiring DIY hobbyist (Of many different areas).  I'm also a huge Pokemon fan, 
 and I'm trying to build a series of Pokemon-themed projects.  See below to see my progress.
 
 ## Pokemon Projects
